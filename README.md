@@ -1,8 +1,10 @@
 ## Olá Navegante, bem-vindo(a) ao meu Portfólio! 👋
 
-[![GIF de exemplo](https://media.giphy.com/media/294rDDT2lOYsGZvmER/giphy.gif)](https://linktr.ee/juavi)
+![GITHUB-LOGO](https://github.com/user-attachments/assets/8810b8fb-3d67-4186-9763-3dc887f8fe46)
+
 
 ## Tecnologias de Desenvolvimento que Utilizo:
+
 [![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 )](https://www.python.org/)
 [![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
