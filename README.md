@@ -1,8 +1,6 @@
 ## Olá Navegante, bem-vindo(a) ao meu Portfólio! 👋
 
-<a href="https://linktr.ee/juavi">
-  <img src="https://media.giphy.com/media/294rDDT2lOYsGZvmER/giphy.gif" width="55" />
-</a>
+[![GIF de exemplo](https://media.giphy.com/media/294rDDT2lOYsGZvmER/giphy.gif)](https://linktr.ee/juavi)
 
 ## Tecnologias de Desenvolvimento que Utilizo:
 [![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
