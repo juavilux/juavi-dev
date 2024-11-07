@@ -1,8 +1,5 @@
 ## Olá Navegante, bem-vindo(a) ao meu Portfólio! 👋
 
-![GITHUB-LOGO](https://github.com/user-attachments/assets/8810b8fb-3d67-4186-9763-3dc887f8fe46)
-
-
 ## Tecnologias de Desenvolvimento que Utilizo:
 
 [![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
