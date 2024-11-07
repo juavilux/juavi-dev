@@ -1,27 +1,8 @@
 ## Olá Navegante, bem-vindo(a) ao meu Portfólio! 👋
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://instagram.com/jhuavi" target="_blank" style="display: inline-block;">
-    <div style="width: 55px; height: 55px; border-radius: 15px; overflow: hidden; display: inline-block;">
-      <img src="https://media.giphy.com/media/GvShwjlgKV29iFej6x/giphy.gif" alt="Instagram" width="55" height="55">
-    </div>
-  </a>
-  <a href="https://github.com/juavi-dev" target="_blank" style="display: inline-block;">
-    <div style="width: 55px; height: 55px; border-radius: 15px; overflow: hidden; display: inline-block;">
-      <img src="https://media.giphy.com/media/DvsLXCWpuhypyd3ZM7/giphy.gif" alt="GitHub" width="55" height="55">
-    </div>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5531975800085" target="_blank" style="display: inline-block;">
-    <div style="width: 55px; height: 55px; border-radius: 15px; overflow: hidden; display: inline-block;">
-      <img src="https://media.giphy.com/media/IyDkgjU9Zdi5zqarCs/giphy.gif" alt="WhatsApp" width="55" height="55">
-    </div>
-  </a>
-  <a href="https://linktr.ee/juavi" target="_blank" style="display: inline-block;">
-    <div style="width: 55px; height: 55px; border-radius: 15px; overflow: hidden; display: inline-block;">
-      <img src="https://media.giphy.com/media/294rDDT2lOYsGZvmER/giphy.gif" alt="WhatsApp" width="55" height="55">
-    </div>
-  </a>
-</div>
+<a href="https://linktr.ee/juavi">
+  <img src="https://media.giphy.com/media/294rDDT2lOYsGZvmER/giphy.gif" width="55" />
+</a>
 
 ## Tecnologias de Desenvolvimento que Utilizo:
 [![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
